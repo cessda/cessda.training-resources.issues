@@ -1,1 +1,1 @@
-# cessda.training-resources.issues
+Issues only
